@@ -80,7 +80,7 @@ The administration panel and client front for bus transportation feedbacks using
 - **Localization (l10n)**: Adoptive date formats, number formats or other cultural considerations based on selected language.
 - **UX**: Data preloading and caching in server side and client side for smooth, fast and reliable user experience.
 
-### [**Intellgent Parking Management (IPM)**](https://ipm.kashan.ir/)
+### **Intellgent Parking Management (IPM)**
 
 Integrated parking lot and marginal parking management and administration system for managing vehicle parking in the city area.
 
@@ -88,7 +88,7 @@ Integrated parking lot and marginal parking management and administration system
 
 User or client management system and landing for parking payment, plan payment and etc.
 
-### [**MotoPlus**](https://police.kashan.ir/)
+### **MotoPlus**
 
 City stationary traffic violations management (STVM)
 
