@@ -1,8 +1,0 @@
-[core]
-  autocrlf = input
-
-[color]
-  ui = auto
-
-[push]
-  followTags = true
