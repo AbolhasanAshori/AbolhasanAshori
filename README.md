@@ -1,11 +1,11 @@
 <div align="center">
-  <div style="margin-bottom: 12px;">
-    <h3 style="font-size: 24px; margin-bottom: 4px;">Abolhassan Ashoori</h3>
-    <p style="margin-bottom: 0;">"Strive to Thrive"</p>
+  <div>
+    <h3>Abolhassan Ashoori</h3>
+    <p>"Strive to Thrive"</p>
   </div>
-  <div style="margin-bottom: 4px;">
+  <div>
     <b>Front-End Developer</b>
-    <p style="margin-bottom: 0;">React & TypeScript Expert</p>
+    <p>React & TypeScript Expert</p>
   </div>
   <p>
     <a href="https://www.linkedin.com/in/abolhasanashori">LinkedIn</a> •
@@ -167,8 +167,7 @@ Advanced On-Street Parking Management System
 **Meta School**
 
 ---
-<div align="center" style="margin-top: 24px; font-size: 16px">
+<div align="center">
   <img src="./assets/obsidian-icon.svg" width="128" height="128" />
-  <p style="margin-bottom: 0;">Powered By</p>
-  <a href="https://obsidian.md">Obsidian</a>
+  <p>Powered By <br /> <a href="https://obsidian.md">Obsidian</a></p>
 </div>
