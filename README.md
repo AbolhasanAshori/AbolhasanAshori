@@ -8,67 +8,14 @@
     <p style="margin-bottom: 0;">React & TypeScript Expert</p>
   </div>
   <p>
-    <a href="#">Website </a><i></i> •
-    <a href="https://x.com/abolhasanashori">X</a> •
     <a href="https://www.linkedin.com/in/abolhasanashori">LinkedIn</a> •
-    <a href="https://t.me/abolhasanashori">Telegram</a>
+    <a href="https://x.com/abolhasanashori">X</a> •
+    <a href="https://t.me/abolhasanashori">Telegram</a> •
+    <span>Website <i>(Developing)</i></span>
   </p>
 </div>
 
 ## 🙂 About Me 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; width: 100%; justify-content: center">
-  <img src="./assets/javascript-icon.svg" alt="JavaScript" height="32" width="32" />
-  <img src="./assets/typescript-icon.svg" alt="TypeScript" height="32" width="32" />
-  <img src="./assets/react-icon.svg" alt="React" height="32" width="32" />
-  <img src="./assets/nextdotjs-icon.svg" alt="Next.js" height="32" width="32" />
-  <img src="./assets/mui-icon.svg" alt="MUI" height="32" width="32" />
-  <img src="./assets/formik-icon.svg" alt="Formik" height="32" width="32" />
-  <img src="./assets/reacttable-icon.svg" alt="React Table" height="32" width="32" />
-  <img src="./assets/reactquery-icon.svg" alt="React Query" height="32" width="32" />
-  <img src="./assets/axios-icon.svg" alt="Axios" height="32" width="32" />
-  <img src="./assets/leaflet-icon.svg" alt="Leaflet" height="32" width="32" />
-  <img src="./assets/chartdotjs-icon.svg" alt="Chart.js" height="32" width="32" />
-  <img src="./assets/recoil-icon.svg" alt="Recoil" height="32" width="32" />
-  <img src="./assets/framer-icon.svg" alt="Framer" height="32" width="32" />
-  <img src="./assets/figma-icon.svg" alt="Figma" height="32" width="32" />
-  <img src="./assets/swiper-icon.svg" alt="Swiper" height="32" width="32" />
-  <img src="./assets/vite-icon.svg" alt="Vite" height="32" width="32" />
-  <img src="./assets/git-icon.svg" alt="Git" height="32" width="32" />
-  <img src="./assets/bootstrap-icon.svg" alt="Bootstrap" height="32" width="32" />
-  <img src="./assets/reactbootstrap-icon.svg" alt="React Bootstrap" height="32" width="32" />
-  <img src="./assets/prettier-icon.svg" alt="Prettier" height="32" width="32" />
-  <img src="./assets/eslint-icon.svg" alt="ESLint" height="32" width="32" />
-  <img src="./assets/commitlint-icon.svg" alt="Commitlint" height="32" width="32" />
-  <img src="./assets/conventionalcommits-icon.svg" alt="Conventional Commits" height="32" width="32" />
-  <img src="./assets/html5-icon.svg" alt="HTML5" height="32" width="32" />
-  <img src="./assets/css-icon.svg" alt="CSS" height="32" width="32" />
-  <img src="./assets/sass-icon.svg" alt="Sass" height="32" width="32" />
-  <img src="./assets/tailwindcss-icon.svg" alt="Tailwind CSS" height="32" width="32" />
-  <img src="./assets/createreactapp-icon.svg" alt="Create React App" height="32" width="32" />
-  <img src="./assets/pwa-icon.svg" alt="PWA" height="32" width="32" />
-  <img src="./assets/i18next-icon.svg" alt="i18next" height="32" width="32" />
-  <img src="./assets/reactrouter-icon.svg" alt="React Router" height="32" width="32" />
-  <img src="./assets/datefns-icon.svg" alt="date-fns" height="32" width="32" />
-  <img src="./assets/mapbox-icon.svg" alt="Mapbox" height="32" width="32" />
-  <img src="./assets/storybook-icon.svg" alt="Storybook" height="32" width="32" />
-  <img src="./assets/windsurf-icon.svg" alt="Windsurf" height="32" width="32" />
-  <img src="./assets/manjaro-icon.svg" alt="Manjaro" height="32" width="32" />
-  <img src="./assets/linux-icon.svg" alt="Linux" height="32" width="32" />
-  <img src="./assets/ubuntu-icon.svg" alt="Ubuntu" height="32" width="32" />
-  <img src="./assets/gnome-icon.svg" alt="GNOME" height="32" width="32" />
-  <img src="./assets/kdeplasma-icon.svg" alt="KDE Plasma" height="32" width="32" />
-  <img src="./assets/kde-icon.svg" alt="KDE" height="32" width="32" />
-  <img src="./assets/xfce-icon.svg" alt="XFCE" height="32" width="32" />
-  <img src="./assets/npm-icon.svg" alt="npm" height="32" width="32" />
-  <img src="./assets/pnpm-icon.svg" alt="pnpm" height="32" width="32" />
-  <img src="./assets/yarn-icon.svg" alt="yarn" height="32" width="32" />
-  <img src="./assets/telegram-icon.svg" alt="Telegram" height="32" width="32" />
-  <img src="./assets/x-icon.svg" alt="X" height="32" width="32" />
-  <img src="./assets/instagram-icon.svg" alt="Instagram" height="32" width="32" />
-  <img src="./assets/linkedin-icon.svg" alt="LinkedIn" height="32" width="32" />
-  <img src="./assets/github-icon.svg" alt="GitHub" height="32" width="32" />
-</div>
-
 Hi there!👋
 
 I'm Abolhasan Ashori, a passionate developer who has dedicated the last few years
@@ -84,37 +31,104 @@ Currently, I'm a front-end developer specializing in JavaScript/TypeScript, the 
 I'm particularly fond of React and NextJS, actively honing my skills in these technologies
 and seeking ways to improve them further.
 
-## 🔧 Technologies
 
-```javascript
-const react = ["Hooks", "Context", "Router"];
-const languages = ["JavaScript", "TypeScript", "HTML", "CSS"];
-const frameworks = ["React", "NextJS"]; // I know 'React' is not a framework
-const stateManagers = ["TanStack Query", "Recoil"];
-const styling = ["Emotion", "CSS Modules", "Tailwind CSS"];
-const ui = ["MUI", "Bootstrap", "Figma", "Adobe XD"];
-const forms = ["Formik", "Yup"];
-const api = ["Axios"];
-const animations = ["react-transition-group", "Swiper", "Lottie"];
-const development = ["Prettier", "ESLint", "Lint Staged", "Commit lint"];
-const collaboration = ["Git", "Azure DevOps", "YouTrack", "Mizito"];
-const other = ["leaflet", "TanStack Table", "i18next", "ChartJS", "Vite"];
-const skills = ["Responsive Design"];
-```
+## 🚀 Technologies & Tools
 
-## 🌱 Currently learning / Want to learn
+**Languages**
 
-- **Language:** C#
-- **Library:** Solid, Preact, Svelte, Web Components
-- **UI:** Lit, Mantine, Semantic, Headless, Ant Design, Charka, Tailwind CSS
-- **Framework:** Remix, Astro, Fresh
-- **Backend:** NodeJS, SvelteKit, Deno, ASP.Net Core
-- **Mobile:** React Native, Android
-- **Desktop:** Electron, Tauri
-- **Other:** Biome
-- **PWA**
-- **Testing**
-- **CI/CD**
+![HTML5](./assets/html5-icon.svg "HTML5")
+![CSS3](./assets/css-icon.svg "CSS3")
+![JavaScript](./assets/javascript-icon.svg "JavaScript")
+![TypeScript](./assets/typescript-icon.svg "TypeScript")
+
+**Frameworks**
+
+![React](./assets/react-icon.svg "React")
+![Next.js](./assets/nextdotjs-icon.svg "Next.js")
+![Vite](./assets/vite-icon.svg "Vite")
+
+**UI**
+
+![Bootstrap](./assets/bootstrap-icon.svg "Bootstrap")
+![MUI](./assets/mui-icon.svg "MUI")
+
+**Data & Networking**
+
+![Axios](./assets/axios-icon.svg "Axios")
+![Recoil](./assets/recoil-icon.svg "Recoil")
+![React Query](./assets/reactquery-icon.svg "React Query")
+![Formik](./assets/formik-icon.svg "Formik")
+
+**Utilities**
+
+![date-fns](./assets/datefns-icon.svg "date-fns")
+![Swiper](./assets/swiper-icon.svg "Swiper")
+
+**Routing & i18n**
+
+![React Router](./assets/reactrouter-icon.svg "React Router")
+![i18next](./assets/i18next-icon.svg "i18next")
+
+**Visualization & Maps**
+
+![Chart.js](./assets/chartdotjs-icon.svg "Chart.js")
+![Leaflet](./assets/leaflet-icon.svg "Leaflet")
+![Mapbox](./assets/mapbox-icon.svg "Mapbox")
+![Openlayers](./assets/openlayers-icon.svg "Openlayers")
+
+**Tooling**
+
+![ESLint](./assets/eslint-icon.svg "ESLint")
+![Prettier](./assets/prettier-icon.svg "Prettier")
+![Storybook](./assets/storybook-icon.svg "Storybook")
+
+**Package Managers**
+
+![npm](./assets/npm-icon.svg "npm")
+![pnpm](./assets/pnpm-icon.svg "pnpm")
+![Yarn](./assets/yarn-icon.svg "Yarn")
+
+**Version Control, Collaboration & DevOps**
+
+![Git](./assets/git-icon.svg "Git")
+![Conventional Commits](./assets/conventionalcommits-icon.svg "Conventional Commits")
+![Commitlint](./assets/commitlint-icon.svg "Commitlint")
+![GitHub Actions](./assets/githubactions-icon.svg "GitHub Actions")
+
+**Deployment**
+
+![Vercel](./assets/vercel-icon.svg "Vercel")
+![Netlify](./assets/netlify-icon.svg "Netlify")
+
+**Love to Learn**
+
+![Zod](./assets/zod-icon.svg "Zod") 
+![Docker](./assets/docker-icon.svg "Docker")
+![Vitest](./assets/vitest-icon.svg "Vitest")
+![Jest](./assets/jest-icon.svg "Jest")
+![Testing Library](./assets/testinglibrary-icon.svg "Testing Library")
+![Cypress](./assets/cypress-icon.svg "Cypress")
+![PWA](./assets/pwa-icon.svg "PWA")
+![Astro](./assets/astro-icon.svg "Astro")
+![Lit](./assets/lit-icon.svg "Lit")
+![Solid](./assets/solid-icon.svg "Solid")
+![Preact](./assets/preact-icon.svg "Preact")
+![Svelte](./assets/svelte-icon.svg "Svelte")
+![Web Components](./assets/webcomponents-icon.svg "Web Components")
+![Biome](./assets/biome-icon.svg "Biome")
+![Electron](./assets/electron-icon.svg "Electron")
+![Tauri](./assets/tauri-icon.svg "Tauri")
+![Tailwind CSS](./assets/tailwindcss-icon.svg "Tailwind CSS")
+![NodeJS](./assets/nodedotjs.svg "NodeJS")
+![Remix](./assets/remix-icon.svg "Remix")
+![Deno](./assets/deno-icon.svg "Deno")
+![Fresh](./assets/fresh-icon.svg "Fresh")
+![Android](./assets/android-icon.svg "Android")
+![Mantine](./assets/mantine-icon.svg "Mantine")
+![Semantic UI](./assets/semanticui-icon.svg "Semantic UI")
+![Headless UI](./assets/headlessui-icon.svg "Headless UI")
+![Ant Design](./assets/antd-icon.svg "Ant Design")
+![Chakra UI](./assets/chakra-icon.svg "Chakra UI")
 
 ## 💼 Work Experience
 
@@ -153,7 +167,6 @@ Advanced On-Street Parking Management System
 **Meta School**
 
 ---
-
 <div align="center" style="margin-top: 24px; font-size: 16px">
   <img src="./assets/obsidian-icon.svg" width="128" height="128" />
   <p style="margin-bottom: 0;">Powered By</p>
