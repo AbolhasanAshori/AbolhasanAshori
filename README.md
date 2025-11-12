@@ -15,8 +15,11 @@
   </p>
 </div>
 
-## 🙂 About Me 
-Hi there!👋
+<details>
+
+<summary>About me</summary>
+
+### Hi there!👋
 
 I'm Abolhasan Ashori, a passionate developer who has dedicated the last few years
 to exploring the world of programming, or as I like to call it, 'The Power of Creation'.
@@ -31,8 +34,11 @@ Currently, I'm a front-end developer specializing in JavaScript/TypeScript, the 
 I'm particularly fond of React and NextJS, actively honing my skills in these technologies
 and seeking ways to improve them further.
 
+</details>
 
-## 🚀 Technologies & Tools
+<details>
+
+<summary>Skills</summary>
 
 **Languages**
 
@@ -41,18 +47,18 @@ and seeking ways to improve them further.
 ![JavaScript](./assets/javascript-icon.svg "JavaScript")
 ![TypeScript](./assets/typescript-icon.svg "TypeScript")
 
-**Frameworks**
+**Frameworks, Libraries & Build Tools**
 
 ![React](./assets/react-icon.svg "React")
 ![Next.js](./assets/nextdotjs-icon.svg "Next.js")
 ![Vite](./assets/vite-icon.svg "Vite")
 
-**UI**
+**UI & Styling**
 
 ![Bootstrap](./assets/bootstrap-icon.svg "Bootstrap")
 ![MUI](./assets/mui-icon.svg "MUI")
 
-**Data & Networking**
+**Data, State Managers & Networking**
 
 ![Axios](./assets/axios-icon.svg "Axios")
 ![Recoil](./assets/recoil-icon.svg "Recoil")
@@ -93,7 +99,6 @@ and seeking ways to improve them further.
 ![Git](./assets/git-icon.svg "Git")
 ![Conventional Commits](./assets/conventionalcommits-icon.svg "Conventional Commits")
 ![Commitlint](./assets/commitlint-icon.svg "Commitlint")
-![GitHub Actions](./assets/githubactions-icon.svg "GitHub Actions")
 
 **Deployment**
 
@@ -102,35 +107,18 @@ and seeking ways to improve them further.
 
 **Love to Learn**
 
-![Zod](./assets/zod-icon.svg "Zod") 
-![Docker](./assets/docker-icon.svg "Docker")
-![Vitest](./assets/vitest-icon.svg "Vitest")
-![Jest](./assets/jest-icon.svg "Jest")
-![Testing Library](./assets/testinglibrary-icon.svg "Testing Library")
-![Cypress](./assets/cypress-icon.svg "Cypress")
+![Zod](./assets/zod-icon.svg "Zod")
+![Tailwind CSS](./assets/tailwindcss-icon.svg "Tailwind CSS")
 ![PWA](./assets/pwa-icon.svg "PWA")
 ![Astro](./assets/astro-icon.svg "Astro")
-![Lit](./assets/lit-icon.svg "Lit")
-![Solid](./assets/solid-icon.svg "Solid")
-![Preact](./assets/preact-icon.svg "Preact")
-![Svelte](./assets/svelte-icon.svg "Svelte")
-![Web Components](./assets/webcomponents-icon.svg "Web Components")
 ![Biome](./assets/biome-icon.svg "Biome")
-![Electron](./assets/electron-icon.svg "Electron")
-![Tauri](./assets/tauri-icon.svg "Tauri")
-![Tailwind CSS](./assets/tailwindcss-icon.svg "Tailwind CSS")
-![NodeJS](./assets/nodedotjs.svg "NodeJS")
-![Remix](./assets/remix-icon.svg "Remix")
-![Deno](./assets/deno-icon.svg "Deno")
-![Fresh](./assets/fresh-icon.svg "Fresh")
 ![Android](./assets/android-icon.svg "Android")
-![Mantine](./assets/mantine-icon.svg "Mantine")
-![Semantic UI](./assets/semanticui-icon.svg "Semantic UI")
-![Headless UI](./assets/headlessui-icon.svg "Headless UI")
-![Ant Design](./assets/antd-icon.svg "Ant Design")
-![Chakra UI](./assets/chakra-icon.svg "Chakra UI")
 
-## 💼 Work Experience
+</details>
+
+<details>
+
+<summary>Experiences</summary>
 
 **Front-End React Developer** <br />
 [**Arad Accelerator**](https://didban-arad.ir) <br />
@@ -148,7 +136,11 @@ October 2022 - October 2025
 [**Farin Group**](https://farin.group) <br />
 January 2025 - October 2025
 
-## 🚀 Projects
+</details>
+
+<details>
+
+<summary>Projects</summary>
 
 **MotoPlus** (Classified) <br />
 Stationary Vehicle Violation Management System
@@ -166,7 +158,16 @@ Advanced On-Street Parking Management System
 
 **Meta School**
 
+</details>
+
+<details>
+
+<summary>Contributions</summary>
+
+</details>
+
 ---
+
 <div align="center">
   <img src="./assets/obsidian-icon.svg" width="128" height="128" />
   <p>Powered By <br /> <a href="https://obsidian.md">Obsidian</a></p>
