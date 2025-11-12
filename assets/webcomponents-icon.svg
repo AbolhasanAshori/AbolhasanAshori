@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="117 69 256 208.4" width="32" height="32">
+  <defs>
+    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-151.8775" y1="469.4991" x2="-150.8775" y2="469.4991" gradientTransform="matrix(127.6787 0 0 -48.7384 19605.5176 22976.1758)">
+      <stop offset="0" stop-color="#2A3B8F"/>
+      <stop offset="1" stop-color="#29ABE2"/>
+    </linearGradient>
+    <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-151.1829" y1="468.9467" x2="-150.1829" y2="468.9467" gradientTransform="matrix(96.1985 0 0 -42.8259 14817.8057 20230.5215)">
+      <stop offset="0" stop-color="#2A3B8F"/>
+      <stop offset="1" stop-color="#29ABE2"/>
+    </linearGradient>
+    <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-150.8881" y1="469.4991" x2="-151.8881" y2="469.4991" gradientTransform="matrix(128.3179 0 0 -48.7384 19703.7949 23135.0176)">
+      <stop offset="0" stop-color="#B4D44E"/>
+      <stop offset="1" stop-color="#E7F716"/>
+    </linearGradient>
+    <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-150.1829" y1="468.9467" x2="-151.1829" y2="468.9467" gradientTransform="matrix(96.1985 0 0 -42.8259 14817.8057 20281.498)">
+      <stop offset="0" stop-color="#B4D44E"/>
+      <stop offset="1" stop-color="#E7F716"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <polygon fill="#166DA5" points="373,173 345.2,219.8 306.2,172.4 345.2,126.2"/>
+    <polygon fill="#8FDB69" points="342.2,227.8 299.8,177.2 274.4,219.7 313.9,277.4"/>
+    <polygon fill="#166DA5" points="341.7,117.9 299.8,168.7 274.4,126.2 313.9,69.2"/>
+    <polygon opacity="0.95" fill="url(#SVGID_1_)" points="214,117.9 341.7,117.9 313.6,69.2 242.1,69.2"/>
+    <polyline opacity="0.95" fill="url(#SVGID_2_)" points="299.8,168.9 370.4,168.9 345,126 274.2,126"/>
+    <polygon opacity="0.95" fill="url(#SVGID_3_)" points="342.2,228 213.8,228 242,276.7 313.9,276.7"/>
+    <polygon fill="#010101" points="242,276.7 181.9,172.9 242.8,69 176.9,69 117,172.9 176.9,276.7"/>
+    <polyline opacity="0.95" fill="url(#SVGID_4_)" points="299.8,177 370.4,177 345,219.8 274.2,219.8"/>
+  </g>
+</svg>
