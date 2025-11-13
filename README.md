@@ -109,6 +109,14 @@ and seeking ways to improve them further.
 
 </details>
 
+<details>
+
+<summary>More Details</summary>
+
+Check [CV](./cv) folder.
+
+</details>
+
 ---
 
 <div align="center">
