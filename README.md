@@ -1,27 +1,20 @@
-<div align="center">
-  <div>
-    <h3>Abolhassan Ashoori</h3>
-    <p>"Strive to Thrive"</p>
-  </div>
-  <div>
-    <b>Front-End Developer</b>
-    <p>React & TypeScript Expert</p>
-  </div>
-  <p>
-    <a href="https://www.linkedin.com/in/abolhasanashori">LinkedIn</a> •
-    <a href="https://x.com/abolhasanashori">X</a> •
-    <a href="https://t.me/abolhasanashori">Telegram</a> •
-    <span>Website <i>(Developing)</i></span>
-  </p>
-</div>
+### Hi there!👋
+
+I'm Abolhassan Ashoori, <br />
+A Front-End Developer, React & TypeScript Expert <br />
+
+[LinkedIn](https://www.linkedin.com/in/abolhasanashori") •
+[X](https://x.com/abolhasanashori) •
+[Telegram](https://t.me/abolhasanashori) •
+Website _(Developing)_
+
+> "Strive to Thrive"
 
 <details>
 
-<summary>About me</summary>
+<summary>My Story</summary>
 
-### Hi there!👋
-
-I'm Abolhasan Ashori, a passionate developer who has dedicated the last few years
+A passionate developer who has dedicated the last few years
 to exploring the world of programming, or as I like to call it, 'The Power of Creation'.
 I am completely fascinated by the endless possibilities it offers.
 
@@ -113,56 +106,6 @@ and seeking ways to improve them further.
 ![Astro](./assets/astro-icon.svg "Astro")
 ![Biome](./assets/biome-icon.svg "Biome")
 ![Android](./assets/android-icon.svg "Android")
-
-</details>
-
-<details>
-
-<summary>Experiences</summary>
-
-**Front-End React Developer** <br />
-[**Arad Accelerator**](https://didban-arad.ir) <br />
-October 2022 - October 2025
-
-- Worked on several developing and maintaining features for the company management panels and website.
-- Led and managed the entire front-end development lifecycle, taking full ownership of implementation and maintenance.
-- Implemented RESTful APIs, WebSockets, integrated third party payment gateway (Zarinpal)
-  to extend project's functionality.
-- Implemented git version control and documentations to significantly improve projects scalability and manageability.
-- Collaborated in several management platforms like Azure DevOps boards and Mizito to ensure timely delivery.
-- Participated in Agile ceremonies, contributing to the adoption of Agile methodologies and improve team collaboration.
-
-**Front-End React Developer** <br />
-[**Farin Group**](https://farin.group) <br />
-January 2025 - October 2025
-
-</details>
-
-<details>
-
-<summary>Projects</summary>
-
-**MotoPlus** (Classified) <br />
-Stationary Vehicle Violation Management System
-
-**MotoPark** (Classified) <br />
-Advanced On-Street Parking Management System
-
-**ParkingPlus** (Classified)
-
-**BusSurvey** (Classified)
-
-**Arad Accelerator Website**
-
-**FanArad**
-
-**Meta School**
-
-</details>
-
-<details>
-
-<summary>Contributions</summary>
 
 </details>
 
